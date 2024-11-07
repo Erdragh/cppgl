@@ -71,6 +71,11 @@ _deps
 .ninja_deps
 .ninja_log
 
+### CLion ###
+.idea
+*.iml
+cmake-build-debug
+
 ### Vim ###
 # Swap
 [._]*.s[a-v][a-z]
